@@ -1,0 +1,57 @@
+.container{
+  text-align: center;
+  color: rgb(30, 54, 185);
+  margin-top: 90px;
+  text-decoration: underline;
+}
+
+h1{
+  text-shadow: 2px 2px whitesmoke;
+  font-family: 'Metamorphous', cursive;
+}
+
+.material-icons {
+  border: none;
+  background: transparent;
+  cursor: pointer ;
+  outline: none;
+  font-size: larger;
+  text-align: center;
+  color: rgb(30, 54, 185);
+  text-shadow: 2px 2px whitesmoke;
+}
+
+.search-input{
+  background: transparent;
+  font-weight: bold;
+  color: rgb(30, 54, 185);
+  font-size: 3vh;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-top: 0vh;
+  border-left: 0vh;
+  border-right: 0vh;
+  border-color: rgb(149, 157, 199);
+  font-family: 'Metamorphous', cursive;
+}
+
+#zipInput{
+  text-align: center;
+  text-shadow: 2px 2px whitesmoke;
+}
+
+.display{
+  color: rgb(30, 54, 185);
+  font-family: 'Metamorphous', cursive;
+  font-weight: bold;
+  text-shadow: 1px 1px whitesmoke;
+  text-transform: capitalize;
+  font-size: 3vh;
+}
+
+body{
+  background-image: url("greice-batista-Yw9wawDusx0-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.8;
+}
